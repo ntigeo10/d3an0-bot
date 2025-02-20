@@ -1,7 +1,7 @@
 # D3AN0 Bot
 Version 0.0.1
 
-An interactive bot that I made for my Discord server! More features will be added in the future!
+An interactive bot that I made for my Discord server! More features will be added in the future! It uses discord.py! 
 
 Currently, it has 2 sections of commands.
 
