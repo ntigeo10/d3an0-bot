@@ -2,6 +2,9 @@
 Version 0.0.1
 
 An interactive bot that I made for my Discord server! More features will be added in the future! It uses discord.py! 
+A list of detailed imports will be added in later time.
+
+If you wish to use the bot as it is, make sure to make a .env file and add the required fields!
 
 Currently, it has 2 sections of commands.
 
