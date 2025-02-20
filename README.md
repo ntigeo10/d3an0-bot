@@ -12,11 +12,14 @@ Bot's prefix is "!" but will be changed in future updates (Command will be inclu
 
 # RSS Feed parser
 !setrss -> Specific roles can set a channel as the one that the bot will send RSS Feed in.
+
 !pauserss -> Specific roles can stop the bot from sending RSS Feed
+
 !resumerss -> Specific roles can resume bot's RSS Feed parsing. 
 
 # Joke commands
 !programmingjoke -> Fetches the 50 most rated Reddit posts from ProgrammingJoke subreddit and posts one of them as an embed. 
+
 !dadjoke -> Fetches the 50 most rated Reddit posts from DadJoke subreddit and posts one of them as an embed. 
 
 
