@@ -22,8 +22,13 @@ Bot's prefix is "!" but will be changed in future updates (Command will be inclu
 
 !dadjoke -> Fetches the 50 most rated Reddit posts from DadJoke subreddit and posts one of them as an embed. 
 
+# Marvel Related
+!nextmcu -> Fetches the next MCU Project and the following after the next project!
+
+!marvelmeme -> Fetches a Marvel related meme from Reddit. 
+
 
 # Soon to be added! 
 
-!help command and Marvel related commands (Due to an error I have to rewrite the cog once again!)
+!help command
 
